@@ -37,7 +37,7 @@ function App() {
         <label>Example m=JGPnGQ6hosj</label>
         <br />
         <input required type='text' placeholder='Matterport URL Params'></input>
-        <label>Example details=1&help=1&minimap=1</label>
+        <label>Example detail=1&help=1&minimap=1</label>
         <br></br>
         <input
           required
