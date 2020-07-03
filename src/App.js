@@ -36,6 +36,16 @@ function App() {
         ></input>
         <label>Example m=JGPnGQ6hosj</label>
         <br />
+        <input
+          required
+          name='version'
+          type='text'
+          placeholder='Version'
+          className='input'
+          defaultValue='default'
+        ></input>
+        <label>default for my.matterport or else leave blank for mpembed</label>
+        <br />
         <input required type='text' placeholder='Matterport URL Params'></input>
         <label>Example detail=1&help=1&minimap=1</label>
         <br></br>
