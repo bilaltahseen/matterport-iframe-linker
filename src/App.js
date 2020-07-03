@@ -37,7 +37,6 @@ function App() {
         <label>Example m=JGPnGQ6hosj</label>
         <br />
         <input
-          required
           name='version'
           type='text'
           placeholder='Version'
